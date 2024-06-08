@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 source /path/to/your/virtualenv/bin/activate
